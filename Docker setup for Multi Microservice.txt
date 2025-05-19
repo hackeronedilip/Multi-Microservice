@@ -1,0 +1,46 @@
+diliphackeone.8 docker
+
+Ad service
+==========
+
+https://hub.docker.com/repository/docker/dilipopseng/adservice/general
+
+docker push dilipopseng/adservice
+
+Expose: 9555
+
+
+Cart Service
+============
+https://hub.docker.com/repository/docker/dilipopseng/cartservice/general
+
+docker push dilipopseng/cartservice
+
+EXPOSE 7070
+
+Checkout Service
+================
+
+https://hub.docker.com/repository/docker/dilipopseng/checkoutservice/general
+
+
+docker push dilipopseng/checkoutservice:tagname
+
+
+EXPOSE 5050
+
+Currency Service
+===================
+
+EXPOSE 7000
+
+https://hub.docker.com/repository/docker/dilipopseng/currencyservice/general
+
+
+Frontend 
+=========
+
+EXPOSE 8080
+
+https://hub.docker.com/repository/docker/dilipopseng/microservicefrontend/general
+
