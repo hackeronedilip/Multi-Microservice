@@ -41,7 +41,7 @@ spec:
                 - ALL
             privileged: false
             readOnlyRootFilesystem: true
-          image: dilipopseng/paymnetservice
+          image: dilipopseng/paymentservice
           ports:
             - containerPort: 50051
           env:
