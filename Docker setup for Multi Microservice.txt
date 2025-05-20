@@ -44,3 +44,37 @@ EXPOSE 8080
 
 https://hub.docker.com/repository/docker/dilipopseng/microservicefrontend/general
 
+
+
+Load Generator
+=================
+
+https://hub.docker.com/repository/docker/dilipopseng/loadgenerator/general
+
+
+Payment Service
+===============
+https://hub.docker.com/repository/docker/dilipopseng/loadgenerator/general
+
+
+EXPOSE 50051
+
+
+Product Catalog
+===================
+
+
+EXPOSE 3550
+
+
+Recommendation Service
+=========================
+
+EXPOSE 8080
+
+Shipping Service
+================
+
+50051
+
+dilipopseng/shippingservice
